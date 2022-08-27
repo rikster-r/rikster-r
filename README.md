@@ -15,4 +15,4 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rikster-r&show_icons=true&theme=react&&hide_border=true) 
