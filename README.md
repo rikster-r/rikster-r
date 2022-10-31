@@ -1,7 +1,7 @@
 # 👋 Hi, I’m rikster
 
 - 👀 I’m interested in `Frontend Web Development` and `Design`
-- 🌱 I’m currently learning MERN stack with [The Odin Project](https://www.theodinproject.com)
+- 🌱 I’m currently going through [FullStack Open 2022 course](https://fullstackopen.com)
 - 📫 Reach me by Discord - rikster#4652
 
 ### Languages
