@@ -1,6 +1,6 @@
 # 👋 Hi, I’m rikster
 
-- 👀 I’m interested in `Frontend Web Development` and `Design`
+- 👀 I’m interested in collaborating on React Open Source projects
 - 🌱 I’m currently going through [The Odin Project](https://theodinproject.com) course
 - 📫 Reach me by Discord - rikster#4652
 
