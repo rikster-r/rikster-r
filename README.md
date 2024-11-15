@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Danial
 
-- 👀 I’m interested in collaborating on React Open Source projects
+- 👀 I’m interested in working on React and/or Next.js projects
 - 📫 Contact me at [danial.partnership@gmail.com](mailto:danial.partnership@gmail.com) or on [Discord](https://discordapp.com/users/550274841996034048)
 
 ### Languages
