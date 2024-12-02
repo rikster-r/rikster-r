@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Danial
 
 - 👀 I’m interested in working on React and Next.js projects
-- 📫 Contact me at [danial.partnership@gmail.com](mailto:danial.partnership@gmail.com) or on [Discord](https://discordapp.com/users/550274841996034048)
+- 📫 Contact me at [danial.partnership@gmail.com](mailto:danial.partnership@gmail.com) or on Telegram - @riksterr  
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
