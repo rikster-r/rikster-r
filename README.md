@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Danial.
 - Student at Astana IT University
+- Fullstack Web Developer primarily using React and Next.js
 - 📫 Contact me at [dseit09@gmail.com](mailto:dseit09@gmail.com) or on Telegram - [@riksterr](https://t.me/riksterr)
 
 ### Languages
